@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+
+.toast-container {
+    z-index: 9999;
+  }
+  
+  .alert.alert-info {
+    background-color: #2196F3; /* Light blue */
+    color: white;
+    padding: 12px;
+    border-radius: 8px;
+  }
+  
